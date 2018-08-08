@@ -1,5 +1,5 @@
-WeatherPy Resultsas.
+WeatherPy Results.
 Highest temperature recorded at mid-latitude shown inFig.1
 No trend observed for cloud and wind with latitude Fig.3-4
-Humidity decreases wit temperature as shown in Fig.5.
+Humidity decreases with temperature as shown in Fig.5.
 grouping/binning based on temperature and relative humidity is needed.
